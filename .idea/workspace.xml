@@ -2,74 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b188001-70af-4772-b0b3-2ebcb39fe340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/oneplus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/OnePlus Type-C OTG Cable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/OnePlus-Warp-Charge-30-Power-Adapter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/OnePlus-Warp-Charge-Type-C-Cable-150-cm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-3t.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-5t.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-6t-mclaren-edition.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-6t.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-7t-pro-mclaren-edition.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-7t-pro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-7t.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-bullet-wireless-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-typeC-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/oneplus-x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Accesories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/Cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/CartColumns.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/CartItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/CartList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/CartTotals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/EmptyCart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Details1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Product1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cart/PayPalButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/Cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart/CartTotals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/CartTotals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Details.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -82,45 +23,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/context.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="139" column="21" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/context1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1938">
-              <caret line="116" column="21" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Cart/Cart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            <state relative-caret-position="680">
+              <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Cart/PayPalButton.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env.development">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Cart/CartTotals.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -148,7 +102,6 @@
         <option value="$PROJECT_DIR$/src/components/Product.css" />
         <option value="$PROJECT_DIR$/src/data.js" />
         <option value="$PROJECT_DIR$/src/components/Product.js" />
-        <option value="$PROJECT_DIR$/src/components/Details.js" />
         <option value="$PROJECT_DIR$/src/components/Modal.js" />
         <option value="$PROJECT_DIR$/src/components/Cart/package.js" />
         <option value="$PROJECT_DIR$/src/components/Cart/CartColumns.js" />
@@ -159,21 +112,25 @@
         <option value="$PROJECT_DIR$/src/components/Cart/CartList.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/components/Cart/CartItem.js" />
-        <option value="$PROJECT_DIR$/src/components/Cart/CartTotals.js" />
         <option value="$PROJECT_DIR$/src/components/Product1.js" />
         <option value="$PROJECT_DIR$/src/context1.js" />
         <option value="$PROJECT_DIR$/src/components/Details1.js" />
-        <option value="$PROJECT_DIR$/src/components/Cart/Cart.js" />
         <option value="$PROJECT_DIR$/src/context.js" />
         <option value="$PROJECT_DIR$/src/components/Default.js" />
+        <option value="$PROJECT_DIR$/src/components/Details.js" />
+        <option value="$PROJECT_DIR$/src/components/Cart/Cart.js" />
+        <option value="$PROJECT_DIR$/src/components/Cart/CartTotals.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/components/Cart/PayPalButton.js" />
+        <option value="$PROJECT_DIR$/.env.development" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="32" />
-    <option name="width" value="699" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="676" />
+    <option name="y" value="40" />
+    <option name="width" value="697" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -198,19 +155,6 @@
               <item name="oneplus" type="b2602c69:ProjectViewProjectNode" />
               <item name="oneplus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneplus" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneplus" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Cart" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,12 +210,13 @@
       <workItem from="1579336600558" duration="6327000" />
       <workItem from="1579355370193" duration="2637000" />
       <workItem from="1579427215528" duration="7212000" />
-      <workItem from="1579442426071" duration="486000" />
+      <workItem from="1579442426071" duration="3178000" />
+      <workItem from="1579513049697" duration="5701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71652000" />
+    <option name="totallyTimeSpent" value="79990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -283,9 +228,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
+    <frame x="676" y="40" width="697" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.09002976" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.30500758" />
       <window_info id="Structure" order="1" sideWeight="0.502455" side_tool="true" weight="0.29198185" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -299,7 +245,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30605564" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31428573" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -488,16 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Details1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Product.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -515,16 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Details.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Default.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -532,16 +458,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Cart/CartTotals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/context.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="2329">
           <caret line="139" column="21" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -559,18 +478,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Cart/Cart.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Details.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        <state relative-caret-position="68">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/components/Details1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Cart/Cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Cart/CartTotals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.env.development">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.development">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Cart/PayPalButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
