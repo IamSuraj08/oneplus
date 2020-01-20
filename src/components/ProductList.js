@@ -11,7 +11,7 @@ class ProductList extends Component {
             <React.Fragment>
                 <div className="py-5">
                     <div className="container">
-                        <Title name="kuiyeko" title="products"/>
+                        <Title name="our" title="products"/>
                      <div className="row">
                          <ProductConsumer>
                              {value=>{
