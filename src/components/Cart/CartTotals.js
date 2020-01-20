@@ -37,7 +37,6 @@ export default function CartTotals({value,history}) {
                           total={cartTotal}
                           clearCart={clearCart}
                           history={history}
-
                       />
 
 
