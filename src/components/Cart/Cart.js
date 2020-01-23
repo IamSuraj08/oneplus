@@ -24,9 +24,6 @@ class Cart extends Component {
                                 </React.Fragment>
                             );
                         }
-                        else{
-                          return  <EmptyCart/>;
-                        }
                     }}
                 </ProductConsumer>
                 <ProductsConsumer>
