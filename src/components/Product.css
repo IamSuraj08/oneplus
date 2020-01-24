@@ -1,5 +1,5 @@
 .card{
-    border-color: transparent;
+    border-color: grey;
     transition: all 0.7s linear;
 }
 .card-footer{
