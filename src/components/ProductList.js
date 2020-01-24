@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
 import Product from "./Product";
 import Title from "./Title";
-import {storeProducts} from "../data";
 import {ProductConsumer} from "../context";
+import {Input} from "mdbreact";
 
 class ProductList extends Component {
+
 
     render() {
         return (

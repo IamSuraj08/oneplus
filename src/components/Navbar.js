@@ -3,7 +3,14 @@ import {Link} from 'react-router-dom';
 import logo from '../logo.svg'
 import {ButtonContainer} from "./Button";
 import styled from 'styled-components';
+
+
 class Navbar extends Component {
+
+
+
+
+
     render() {
         return (
             <NavWrapper className="navbar navbar-expand-sm navbar-dark px-sm-5">

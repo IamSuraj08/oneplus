@@ -27,7 +27,7 @@ class Details1 extends Component {
                                 <div className="col-10 mx-auto col-md-6 my-3
                                  text-capitalize">
                                     <h2>model : {title}</h2>
-                                    <h4 className="text-title text-uppercase text-muted
+                                    <h4 className="text-uppercase
                                     mt-3 mb-2">
                                         made by : <span className="text-uppercase">
                                         {company}</span>
