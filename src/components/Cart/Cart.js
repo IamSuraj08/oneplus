@@ -8,7 +8,14 @@ import CartList from './CartList';
 import CartTotals from './CartTotals';
 
 class Cart extends Component {
+
+
+    checkempty() {
+        return <EmptyCart/>;
+    }
+
     render() {
+
         return (
             <section>
                 <Title name="your" title="cart" />
@@ -26,7 +33,16 @@ class Cart extends Component {
                                 </React.Fragment>
                             );
                         }
-                    }}
+                        else{
+                            return (
+                                <div>
+                                    {this.checkempty()}
+                                </div>
+                            );
+                        }
+                    }
+
+                    }
                 </ProductConsumer>
                 <ProductsConsumer>
                     {value =>{

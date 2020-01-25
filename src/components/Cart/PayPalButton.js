@@ -1,5 +1,6 @@
 import React from 'react';
 import PaypalExpressBtn from 'react-paypal-express-checkout';
+import {withAlert} from "react-alert";
 
 
 export default class MyApp extends React.Component {
@@ -9,6 +10,8 @@ export default class MyApp extends React.Component {
             console.log("The payment was succeeded!", payment);
             this.props.clearCart();
             this.props.history.push('/');
+            alert("Payment Successful", payment);
+
             // You can bind the "payment" object's value to your state or props or whatever here, please see below for sample returned data
         }
 
