@@ -35,6 +35,7 @@ class Navbar extends Component {
                         </Link>
                     </li>
                 </ul>
+                <SearchPage/>
                 <Link to='/cart' className="ml-auto">
                     <ButtonContainer>
                         <span className='mr-2'>
