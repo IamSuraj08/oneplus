@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 import {MDBCol,MDBIcon} from "mdbreact";
+import {Route} from "react-router-dom";
+import ProductList from "./ProductList";
 
 class SearchPage extends Component {
     render() {

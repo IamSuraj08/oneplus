@@ -5,7 +5,7 @@ export const storeProducts = [
     id: 1,
     title: "Oneplus - 1",
     img: "img/oneplus-1.jpg",
-    price: 10,
+    price: 200,
     company: "Oneplus",
     info:
         "Screen size (inches)\t5.50\n" +
@@ -27,7 +27,7 @@ export const storeProducts = [
     id: 2,
     title: "Oneplus - X",
     img: "img/oneplus-x.jpg",
-    price: 16,
+    price: 300,
     company: "Oneplus",
     info:
       "Screen size (inches)\t5.00\n" +
@@ -50,7 +50,7 @@ export const storeProducts = [
     id: 3,
     title: "Oneplus - 2",
     img: "img/oneplus-2.jpg",
-    price: 8,
+    price: 399,
     company: "Oneplus",
     info:
       "Screen size (inches)\t5.50\n" +
@@ -70,7 +70,7 @@ export const storeProducts = [
     id: 4,
     title: "Oneplus - 3",
     img: "img/oneplus-3.jpg",
-    price: 18,
+    price: 345,
     company: "Oneplus",
     info:
       "Screen size (inches)\t5.50\n" +
@@ -95,7 +95,7 @@ export const storeProducts = [
     id: 5,
     title: "Oneplus - 3T",
     img: "img/oneplus-3t.jpg",
-    price: 24,
+    price: 437,
     company: "Oneplus",
     info:
       "Screen size (inches)\t5.50\n" +
@@ -120,7 +120,7 @@ export const storeProducts = [
     id: 6,
     title: "Oneplus - 5",
     img: "img/oneplus-5.jpg",
-    price: 17,
+    price: 475,
     company: "Oneplus",
     info:
       "Screen size (inches)\t5.50\n" +
@@ -144,7 +144,7 @@ export const storeProducts = [
     id: 7,
     title: "Oneplus - 5T",
     img: "img/oneplus-5t.jpg",
-    price: 17,
+    price: 499,
     company: "Oneplus",
     info:
       "Screen size (inches)\t6.01\n" +
@@ -172,7 +172,7 @@ export const storeProducts = [
     id: 8,
     title: "Oneplus - 6",
     img: "img/oneplus-6.jpg",
-    price: 30,
+    price: 535,
     company: "Oneplus",
     info:
       "Screen size (inches)\t6.28\n" +
@@ -200,7 +200,7 @@ export const storeProducts = [
     id: 9,
     title: "Oneplus - 6T",
     img: "img/oneplus-6t.jpg",
-    price: 2,
+    price: 599,
     company: "Oneplus",
     info:
       "Screen size (inches)\t6.41\n" +
@@ -228,7 +228,7 @@ export const storeProducts = [
     id: 10,
     title: "Oneplus -6T McLaren Edition",
     img: "img/oneplus-6t-mclaren-edition.jpg",
-    price: 2,
+    price: 699,
     company: "Oneplus",
     info:
       "Screen size (inches)\t6.41\n" +
@@ -256,7 +256,7 @@ export const storeProducts = [
     id: 11,
     title: "Oneplus - 7",
     img: "img/oneplus-7.jpg",
-    price: 2,
+    price: 753,
     company: "Oneplus",
     info:
       "Screen size (inches)\t6.41\n" +
@@ -285,7 +285,7 @@ export const storeProducts = [
     id: 12,
     title: "Oneplus - 7T",
     img: "img/oneplus-7t.jpg",
-    price: 2,
+    price: 777,
     company: "Oneplus",
     info:
       "Screen size (inches)\t6.55\n" +
@@ -315,7 +315,7 @@ export const storeProducts = [
     id: 13,
     title: "Oneplus - 7T Pro",
     img: "img/oneplus-7t-pro.jpg",
-    price: 2,
+    price: 799,
     company: "Oneplus",
     info:
       "Screen size (inches)\t6.67\n" +
@@ -343,7 +343,7 @@ export const storeProducts = [
     id: 14,
     title: "Oneplus - 7T Pro McLaren Edition",
     img: "img/oneplus-7t-pro-mclaren-edition.jpg",
-    price: 2,
+    price: 836,
     company: "Oneplus",
     info:
       "Screen size (inches)\t6.67\n" +
@@ -373,7 +373,7 @@ export const detailProduct = {
   id: 1,
   title: "Oneplus - 1",
   img: "img/oneplus-1.jpg",
-  price: 10,
+  price: 200,
   company: "Oneplus",
   info:
       "Screen size (inches)\t5.50\n" +
