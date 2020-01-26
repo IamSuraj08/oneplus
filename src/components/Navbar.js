@@ -20,7 +20,7 @@ class Navbar extends Component {
                 https://www.iconfinder.com/Makoto_msk */}
 
 
-                <Link to='/products'>
+                <Link to='/'>
                     <img src={logo} alt="store" className="oneplus-brand"/>
 
                 </Link>
