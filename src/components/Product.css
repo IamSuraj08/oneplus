@@ -3,9 +3,10 @@
     transition: all 0.7s linear;
 }
 .card-footer{
-    background: transparent;
+    background: silver;
     border-top: transparent;
     transition: all 0.7s linear;
+    color: black;
 }
 .card:hover{
     border: 0.04rem solid rgba(0,0,0,0.2);

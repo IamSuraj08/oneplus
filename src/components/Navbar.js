@@ -3,6 +3,7 @@ import {Link} from 'react-router-dom';
 import logo from '../home.svg'
 import {ButtonContainer} from "./Button";
 import styled from 'styled-components';
+import SearchPage from './SearchPage';
 
 
 class Navbar extends Component {
@@ -19,13 +20,13 @@ class Navbar extends Component {
                 https://www.iconfinder.com/Makoto_msk */}
 
 
-                <Link to='/'>
+                <Link to='/products'>
                     <img src={logo} alt="store" className="oneplus-brand"/>
 
                 </Link>
                 <ul className="navbar-nav align-items-center">
                     <li className="nav-item ml-5">
-                        <Link to='/' className="nav-link">
+                        <Link to='/products' className="nav-link">
                             products
                         </Link>
                     </li><li className="nav-item ml-5">

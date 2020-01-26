@@ -47,7 +47,7 @@ class Details extends Component {
                                     </p>
                                     {/*button*/}
                                     <div>
-                                        <Link to="/">
+                                        <Link to="/products">
                                             <ButtonContainer>back to products</ButtonContainer>
                                         </Link>
                                         <ButtonContainer cart
